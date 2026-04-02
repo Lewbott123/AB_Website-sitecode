@@ -118,6 +118,7 @@ h2 {
   font-size: 34px;
 }
 
+/* Mobile screen adjustment */
 @media (max-width: 768px) {
   body {
     font-size: 16px;
